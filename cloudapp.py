@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
    
 #Copyright (C)2010 Abhinandh <abhinandh@gmail.com>
-#Copyleft (C)2012 IMPIZA <gsruthin@gmail.com>
+#Copyleft (C)2012 IMPIZA  <gsruthin@gmail.com>
 #This Program in licenser under General Public License Ver 3
     
 import sys
