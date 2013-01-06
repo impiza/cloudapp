@@ -4,13 +4,15 @@ A PyQt based drag drop uploader to Cloud App (http://getcloudapp.com).
 Upload, Delete and View files right from your system tray.
 Uploaded files' links get copied to the clipboard automatically.
 this app created by IMPIZA (Originally created by Abhinandh #<abhinandh@gmail.com>) 
-i have modified and create debian backage for linux 
+i have modified and create debian backage for linux ! Abhinandh thanks for sharing 
+source files ! 
 
 Screenshots
 ----------
+http://cl.ly/image/0H1w1o0k332o
 
-  http://cl.ly/WMR
-  http://cl.ly/WIl
+http://cl.ly/image/2j0J2e2s1T3y
+  
 
 License
 -------
